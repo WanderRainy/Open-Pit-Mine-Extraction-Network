@@ -82,6 +82,8 @@ Compute test metrics:
 python test_metric.py
 ```
 
+* Trained weight to be download mannuly in release.
+  
 ---
 
 ### 4. Large-scale inference
