@@ -62,6 +62,7 @@ Run the main training script:
 python train.py
 ```
 
+* Convnext need to be download mannuly https://dl.fbaipublicfiles.com/convnext/convnext_base_22k_224.pth.
 * The script handles dataset loading, model initialization, and training.
 * Note: **No validation set is used in the current implementation.**
 
