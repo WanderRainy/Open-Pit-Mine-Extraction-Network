@@ -7,6 +7,12 @@ Official PyTorch implementation of the IEEE GRSL paper:
 
 ---
 
+## 🔍 Visual Results
+
+<p align="center">
+  <img src="./open_pit_mine_extraction_Ningbo.png" width="80%">
+</p>
+
 ## 📦 Dataset
 
 The dataset used in this work is publicly available at:
