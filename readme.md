@@ -9,9 +9,9 @@ Official PyTorch implementation of the IEEE GRSL paper:
 
 ## 🔍 Visual Results
 
-<p align="center">
-  <img src="./open_pit_mine_extraction_Ningbo.png" width="80%">
-</p>
+![Open-pit Mine Extraction](./open_pit_mine_extraction_Ningbo.png)
+
+*Example of open-pit mine extraction results in Ningbo.*
 
 ## 📦 Dataset
 
